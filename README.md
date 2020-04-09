@@ -1,5 +1,5 @@
 
-# [SecOps Resources ](secopsresources.github.com)
+# [SecOpsResources](https://secopsresources.github.com)
 
 > This will be the main repository
 
