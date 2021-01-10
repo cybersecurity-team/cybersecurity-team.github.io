@@ -1,2 +1,5 @@
-https://github.com/OWASP/CheatSheetSeries
-https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- https://github.com/OWASP/CheatSheetSeries
+- https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- ![MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP)
+- https://github.com/harvard-itsecurity
+- https://github.com/nao-sec
