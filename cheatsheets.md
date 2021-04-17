@@ -3,3 +3,6 @@
 - ![MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP)
 - https://github.com/harvard-itsecurity
 - https://github.com/nao-sec
+- https://github.com/sqreen/CTOSecurityChecklist
+- https://github.com/sqreen/DevelopersSecurityBestPractices
+- https://github.com/sqreen/DevOpsSecurityChecklist
